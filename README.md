@@ -63,7 +63,7 @@ Finalmente, Spring se utiliza para proporcionar un marco de aplicaciones de Java
   <li>NetBeans version 15</li>
   <li>Java version 8</li>
 </ul>
-<h2>¡Despedida!</h2>
+<h2>¡Despedida y Aprendizaje!</h2>
 <p>Este proyecto me brindó la oportunidad de aprender y utilizar nuevas tecnologías, en este caso fue Thymeleaf el cual es mi primera vez utilizandolo en la practica.
 A través de su implementación en este proyecto, aprendí cómo crear una interfaz de usuario atractiva y fácil de usar, 
 y cómo integrarla con el resto de mi aplicación utilizando Spring.
