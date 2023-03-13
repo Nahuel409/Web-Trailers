@@ -1,4 +1,4 @@
-<h1>Web de Peliculas</h1>
+<h1>Web de Trailers</h1>
 
 <p>Se trata de una plataforma en línea de Peliculas, construida utilizando Java, JDBC, Hibernate, Thymeleaf y Spring.
 La aplicación permite a los usuarios explorar y descubrir películas, ver detalles sobre ellas, incluyendo su sinopsis, fecha de estreno, genero y trailer de la pelicula.
