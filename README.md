@@ -69,7 +69,7 @@ A través de su implementación en este proyecto, aprendí cómo crear una inter
 y cómo integrarla con el resto de mi aplicación utilizando Spring.
 Me llevo una buena experiencia y estoy emocionado de seguir explorando y mejorando mis habilidades continuamente.</p>
 <p>"Por otro lado quiero agradecer por tomarse el tiempo de revisar mi proyecto. Espero que les haya gustado y encontrado útil. Si tienen alguna pregunta o sugerencia, no duden en contactarme. ¡Gracias nuevamente por su tiempo y apoyo!"</p>
-
+<p>Diego Villan</p>
 
 
 
